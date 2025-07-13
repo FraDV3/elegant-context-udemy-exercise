@@ -1,5 +1,3 @@
-# elegant-context-udemy-exercise
-
 # Elegant Context 🛍️
 
 **Elegant Context** is a React demo project that showcases how to manage global state using the **React Context API**. The app simulates a small e-commerce site where users can browse products, add them to a cart, and view or modify the cart contents.
